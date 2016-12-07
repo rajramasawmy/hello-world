@@ -1,0 +1,4 @@
+cd build
+g++ -c -o ex1.o ../ex1.cpp
+g++ -o ex1 ex1.o
+      
